@@ -7,7 +7,6 @@ Application Web **Fullstack** moderne permettant de gérer une bibliothèque per
 ## 📷 Aperçu du Projet
 
 ![Interface de l'application](./manga-frontend/src/assets/preview.png)
-*(Note : Pense à placer ta capture d'écran dans tes dossiers et à ajuster ce chemin d'image pour qu'elle s'affiche sur GitHub !)*
 
 ---
 
